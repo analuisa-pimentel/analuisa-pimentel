@@ -28,6 +28,6 @@
 
 <!-- CONTATO: troque o e-mail e o número (formato wa.me/55 + DDD + número, só dígitos) -->
 <p align="center">
-  <a href="mailto:analuisa.pimentel.dev@gmail.com"><img src="./assets/contato-email.svg" width="49%" alt="Enviar e-mail" /></a>
-  <a href="https://wa.me/552199753-4024"><img src="./assets/contato-whatsapp.svg" width="49%" alt="Conversar no WhatsApp" /></a>
+  <a href="mailto:analuisa.pimentel.dev@gmail.com"><img src="./assets/contato-email.svg" width="49%" /></a>
+  <a href="https://wa.me/552199753-4024"><img src="./assets/contato-whatsapp.svg" width="49%" /></a>
 </p>
