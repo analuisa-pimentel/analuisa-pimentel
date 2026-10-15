@@ -14,6 +14,5 @@
 <circle class="disc" cx="58" cy="50" r="28"/>
 <g transform="translate(58 50)"><path class="stroke" d="M-11 10 L-8.5 3.5 A12 12 0 1 1 -3.5 8.5 Z"/><path class="stroke" d="M-4 0 H4 M-4 -5 H2"/></g>
 <text class="sans foam" x="104" y="46" font-size="21" font-weight="700">WhatsApp</text>
-<text class="sans mist" x="104" y="71" font-size="14">Mande uma mensagem</text>
 <path class="chev" d="M396 40 L406 50 L396 60"/>
 </svg>
