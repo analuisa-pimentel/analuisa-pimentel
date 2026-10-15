@@ -14,6 +14,6 @@
 <circle class="disc" cx="58" cy="50" r="28"/>
 <g transform="translate(58 50)"><rect class="stroke" x="-12" y="-8" width="24" height="17" rx="3"/><path class="stroke" d="M-11 -6 L0 2 L11 -6"/></g>
 <text class="sans foam" x="104" y="46" font-size="21" font-weight="700">E-mail</text>
-<text class="sans mist" x="104" y="71" font-size="14"></text>
+<text class="sans mist" x="104" y="71" font-size="14">"Envie um email"</text>
 <path class="chev" d="M396 40 L406 50 L396 60"/>
 </svg>
